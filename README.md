@@ -1,8 +1,4 @@
-
-Sure, here’s a brief description for your to-do list website:
-
 To-Do List Web Application
-
 Overview: The To-Do List Web Application is a sleek, user-friendly tool designed to help individuals efficiently manage and organize their tasks. 
           Developed as part of the Codtech internship program in the domain of web development, this application aims to enhance productivity by providing a streamlined platform for task management.
 Key Features:
